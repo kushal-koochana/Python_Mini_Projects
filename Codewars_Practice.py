@@ -157,7 +157,6 @@ def wrap(value):
 
 
 def summation(num):
-    """arithmetic series and formula for summation of natural numbers..."""
     result = (num * (num + 1)) / 2
     return result
 
